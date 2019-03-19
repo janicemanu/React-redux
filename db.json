@@ -1,0 +1,110 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "rochafi",
+      "password": "satuduatiga"
+    },
+    {
+      "username": "janice",
+      "password": "123456",
+      "email": "janice@gmail.com",
+      "id": 2
+    },
+    {
+      "username": "kia",
+      "password": "12345",
+      "email": "kia@gmail.com",
+      "id": 3
+    },
+    {
+      "username": "siska",
+      "password": "",
+      "email": "",
+      "id": 4
+    },
+    {
+      "username": "santi",
+      "password": "12345",
+      "email": "",
+      "id": 5
+    },
+    {
+      "username": "sinta",
+      "password": "12345",
+      "email": "",
+      "id": 6
+    },
+    {
+      "username": "",
+      "password": "",
+      "email": "",
+      "id": 7
+    }
+  ],
+  "product": [
+    {
+      "name": "Balenciaga",
+      "desc": "XXS Shopper",
+      "price": 5000,
+      "src": "https://images.neimanmarcus.com/ca/1/product_assets/V/3/K/D/R/NMV3KDR_mz.jpg",
+      "id": 1
+    },
+    {
+      "name": "Louis Vuitton",
+      "desc": "Saintonge",
+      "price": 1240,
+      "src": "https://eu.louisvuitton.com/images/is/image/lv/1/PP_VP_M/louis-vuitton--M44597_PM2_Front%20view.jpg?wid=680&hei=680",
+      "id": 2
+    },
+    {
+      "name": "Chanel",
+      "desc": "Gabrielle Backpack",
+      "price": 5000,
+      "src": "https://www.chanel.com/images/u_sample,w_5000,h_1,g_south,b_white/e_trim:0/c_crop,w_iw,h_ih/u_sample,w_5000,h_1,g_north,b_white/e_trim:0/c_crop,w_iw,h_ih/c_pad,w_iw,h_ih/e_trim:0/q_auto,f_auto,fl_lossy,dpr_auto/w_972/chanel-s-gabrielle-backpack-light-pink-aged-calfskin-smooth-calfskin-silver-tone-gold-tone-metal-aged-calfskin-smooth-calfskin-silver-tone-gold-tone-metal-packshot-default-a94502y61477n0430-8814001717278.jpg",
+      "id": 3
+    },
+    {
+      "name": "Chanel",
+      "desc": "Vanity Case",
+      "price": "8400",
+      "src": "https://www.chanel.com/images/t_fashion/q_auto,f_jpg,fl_lossy,dpr_2/w_1920/small-vanity-case-beige-white-rattan-calfskin-silver-tone-metal-rattan-calfskin-silver-tone-metal-packshot-default-a93342b00425n4135-8814067482654.jpg",
+      "id": 4
+    },
+    {
+      "name": "Celine",
+      "desc": "Mini Belt Bag",
+      "price": "2200",
+      "src": "https://www.purseblog.com/images/2016/01/Celine-Mini-Belt-Bag-Green-Feature.jpg",
+      "id": 5
+    },
+    {
+      "name": "tas",
+      "desc": "tas",
+      "price": "1200",
+      "src": "https://eu.louisvuitton.com/images/is/image/lv/1/PP_VP_M/louis-vuitton--M44597_PM2_Front%20view.jpg?wid=680&hei=680",
+      "id": 6
+    },
+    {
+      "name": "tas",
+      "desc": "tas",
+      "price": "1200",
+      "src": "https://eu.louisvuitton.com/images/is/image/lv/1/PP_VP_M/louis-vuitton--M44597_PM2_Front%20view.jpg?wid=680&hei=680",
+      "id": 7
+    },
+    {
+      "name": "tas",
+      "desc": "tas",
+      "price": "1200",
+      "src": "https://eu.louisvuitton.com/images/is/image/lv/1/PP_VP_M/louis-vuitton--M44597_PM2_Front%20view.jpg?wid=680&hei=680",
+      "id": 8
+    },
+    {
+      "name": "tas",
+      "desc": "tas",
+      "price": "1200",
+      "src": "https://eu.louisvuitton.com/images/is/image/lv/1/PP_VP_M/louis-vuitton--M44597_PM2_Front%20view.jpg?wid=680&hei=680",
+      "id": 9
+    }
+  ]
+}
